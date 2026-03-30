@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi, I'm Samant kumar 👋
+🎓 Branch: Computer Science 📅 Year: 1st Year (2025–2029) 🏫 Institution: Vellore Institute of Technology,Bhopal
+
+About Me
+I have keen interest in programming languages and want to go in deep and contribute to the field of technology and artificial intelligence.
+
+Connect with Me
+💼 LinkedIn: https://www.linkedin.com/in/samant-kumar-63327a390/
 
 <!--
 **samant-07/samant-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
